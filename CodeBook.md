@@ -1,7 +1,7 @@
-# Identify 
+# Identify: 
 subject: identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-# Activity_Label: 
+# Activities: 
 Each person performed six activities wearing a smartphone (Samsung Galaxy S II) on the waist:
 
 - WALKING: value 1.
