@@ -1,4 +1,4 @@
-Measurements
+# Measurements
 
 1.	tBodyAcc-mean()-X
 2.	tBodyAcc-mean()-Y              
