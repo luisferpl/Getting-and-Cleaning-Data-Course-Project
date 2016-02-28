@@ -1,7 +1,10 @@
-# Identify: 
+# Code Book
+In this Code Book it describes the output variables of the tidy.txt file, containing the average of each variable for each activity and each subject of the experiment.
+
+## Identify: 
 - subject: identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-# Activities: 
+## Activities: 
 Each person performed six activities wearing a smartphone (Samsung Galaxy S II) on the waist:
 
 - WALKING: value 1.
@@ -11,7 +14,7 @@ Each person performed six activities wearing a smartphone (Samsung Galaxy S II) 
 - STANDING: value 5.
 - LAYING: value 6.
 
-# List of all features of measurements:
+## List of all features of measurements:
 
 1.	tBodyAcc-mean()-X
 2.	tBodyAcc-mean()-Y              
