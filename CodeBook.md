@@ -1,11 +1,15 @@
-# Each person performed six activities wearing a smartphone (Samsung Galaxy S II) on the waist:
+# Identify 
+subject: identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-1. WALKING: value 1.
-2. WALKING_UPSTAIRS: value 2.
-3. WALKING_DOWNSTAIRS: value 3.
-4. SITTING: value 4.
-5. STANDING: value 5.
-6. LAYING: value 6.
+# Activity_Label: 
+Each person performed six activities wearing a smartphone (Samsung Galaxy S II) on the waist:
+
+- WALKING: value 1.
+- WALKING_UPSTAIRS: value 2.
+- WALKING_DOWNSTAIRS: value 3.
+- SITTING: value 4.
+- STANDING: value 5.
+- LAYING: value 6.
 
 # List of all features of measurements:
 
