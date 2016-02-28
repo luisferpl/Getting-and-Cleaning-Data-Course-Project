@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 Human Activity Recognition Using Smartphones Data Set
 
-The script run_analysis.R of this project works of the following form: 
+The script run_analysis.R of this project works as follows: 
 
 1. Sets the working directory.
 2. Reads the list of all features.
