@@ -76,6 +76,6 @@ melt_data = melt(test_train_data, id = id_labels, measure.vars = data_labels)
 # From the data set in step 4, creates a second, independent tidy data set with 
 # the average of each variable for each activity and each subject
 tidy_data   = dcast(melt_data, subject + Activity_Label ~ variable, mean)
-write.table(tidy_data, file = "tidy_data.txt", row.names = FALSE)
+write.table(tidy_data, file = "tidy.txt", row.names = FALSE)
 
 
