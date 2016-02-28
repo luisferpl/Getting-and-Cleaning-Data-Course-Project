@@ -1,5 +1,5 @@
 # Identify: 
-subject: identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+- subject: identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 # Activities: 
 Each person performed six activities wearing a smartphone (Samsung Galaxy S II) on the waist:
